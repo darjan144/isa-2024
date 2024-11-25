@@ -1,0 +1,20 @@
+● 3.1 - u potpunosti,
+● 3.2 - bez aktivacije naloga i Bloom Filter-a,
+● 3.5 - u potpunosti,
+● 3.7 - u potpunosti,
+● 3.8 - bez rešavanja konflikta,
+● 3.9 - samo prikazivanje objave,
+● 3.12 - u potpunosti,
+● 3.19 - u potpunosti,
+● 3.23 - u potpunosti
+
+Za kontrolnu tačku 1 je potrebno uraditi:
+● 3.1 - u potpunosti,
+● 3.2 - prijava i registracija, bez rate limiter-a i rešavanja konflikta,
+● 3.5 - u potpunosti,
+● 3.8 - bez keširanja,
+● 3.9 - samo prikazivanje objave.
+Za kontrolnu tačku 2 je potrebno uraditi:
+● 3.2 - do kraja,
+● 3.7 - u potpunosti,
+● 3.8 - do kraja
